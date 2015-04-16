@@ -1,0 +1,9 @@
+c:\users\lab104bpc13\documents\visual studio 2012\Projects\AppTexBox2\AppTexBox2\bin\Debug\AppTexBox2.exe.config
+c:\users\lab104bpc13\documents\visual studio 2012\Projects\AppTexBox2\AppTexBox2\bin\Debug\AppTexBox2.exe
+c:\users\lab104bpc13\documents\visual studio 2012\Projects\AppTexBox2\AppTexBox2\bin\Debug\AppTexBox2.pdb
+c:\users\lab104bpc13\documents\visual studio 2012\Projects\AppTexBox2\AppTexBox2\obj\Debug\AppTexBox2.Form1.resources
+c:\users\lab104bpc13\documents\visual studio 2012\Projects\AppTexBox2\AppTexBox2\obj\Debug\AppTexBox2.Properties.Resources.resources
+c:\users\lab104bpc13\documents\visual studio 2012\Projects\AppTexBox2\AppTexBox2\obj\Debug\AppTexBox2.csproj.GenerateResource.Cache
+c:\users\lab104bpc13\documents\visual studio 2012\Projects\AppTexBox2\AppTexBox2\obj\Debug\AppTexBox2.exe
+c:\users\lab104bpc13\documents\visual studio 2012\Projects\AppTexBox2\AppTexBox2\obj\Debug\AppTexBox2.pdb
+c:\users\lab104bpc13\documents\visual studio 2012\Projects\AppTexBox2\AppTexBox2\obj\Debug\AppTexBox2.csprojResolveAssemblyReference.cache
