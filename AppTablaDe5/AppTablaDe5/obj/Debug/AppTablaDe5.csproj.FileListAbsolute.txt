@@ -1,0 +1,5 @@
+c:\users\lab104bpc13\documents\visual studio 2012\Projects\AppTablaDe5\AppTablaDe5\bin\Debug\AppTablaDe5.exe.config
+c:\users\lab104bpc13\documents\visual studio 2012\Projects\AppTablaDe5\AppTablaDe5\bin\Debug\AppTablaDe5.exe
+c:\users\lab104bpc13\documents\visual studio 2012\Projects\AppTablaDe5\AppTablaDe5\bin\Debug\AppTablaDe5.pdb
+c:\users\lab104bpc13\documents\visual studio 2012\Projects\AppTablaDe5\AppTablaDe5\obj\Debug\AppTablaDe5.exe
+c:\users\lab104bpc13\documents\visual studio 2012\Projects\AppTablaDe5\AppTablaDe5\obj\Debug\AppTablaDe5.pdb

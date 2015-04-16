@@ -1,0 +1,8 @@
+c:\users\lab104bpc13\documents\visual studio 2012\Projects\AppChetBox\AppChetBox\bin\Debug\AppChetBox.exe.config
+c:\users\lab104bpc13\documents\visual studio 2012\Projects\AppChetBox\AppChetBox\bin\Debug\AppChetBox.exe
+c:\users\lab104bpc13\documents\visual studio 2012\Projects\AppChetBox\AppChetBox\bin\Debug\AppChetBox.pdb
+c:\users\lab104bpc13\documents\visual studio 2012\Projects\AppChetBox\AppChetBox\obj\Debug\AppChetBox.btnselecionar.resources
+c:\users\lab104bpc13\documents\visual studio 2012\Projects\AppChetBox\AppChetBox\obj\Debug\AppChetBox.Properties.Resources.resources
+c:\users\lab104bpc13\documents\visual studio 2012\Projects\AppChetBox\AppChetBox\obj\Debug\AppChetBox.csproj.GenerateResource.Cache
+c:\users\lab104bpc13\documents\visual studio 2012\Projects\AppChetBox\AppChetBox\obj\Debug\AppChetBox.exe
+c:\users\lab104bpc13\documents\visual studio 2012\Projects\AppChetBox\AppChetBox\obj\Debug\AppChetBox.pdb
